@@ -318,7 +318,7 @@ header .account-list li:hover {
         -ms-flex-direction: row-reverse;
             flex-direction: row-reverse;
   }
-  .category, .search {
+  .category, .search, .name, .down {
     display: none;
   }
   .search-btn {
