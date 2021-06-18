@@ -1,5 +1,6 @@
 $(document).ready(function() {
   const swiper = new Swiper('.swiper-container', {
+    spaceBetween:1,
     breakpoints: {
       0: {
         slidesPerView: 1,
